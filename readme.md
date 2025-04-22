@@ -23,6 +23,6 @@ npm install
 2. Run the development server
 npm start
 
-Build for production:
+3. Build for production:
 npm run build
 
