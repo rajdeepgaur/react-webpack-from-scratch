@@ -20,9 +20,9 @@ A minimal React project set up from scratch using **Webpack**, **Babel**, and **
 1. Clone the repo and install dependencies
 npm install
 
-3. Run the development server
+2. Run the development server
 npm start
 
-Build for production
+Build for production:
 npm run build
 
